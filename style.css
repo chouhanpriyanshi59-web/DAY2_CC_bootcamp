@@ -17,9 +17,9 @@ form {
     flex-direction: column;
     width: 300px;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 10px solid rgb(189, 100, 12);
     border-radius: 5px;
-    background-color: #f9f9f9;
+    background-color: rgb(227, 191, 118);
 }
 
 label {
@@ -44,6 +44,7 @@ button {
 
 button:hover {
     background-color: #45a049;
+    opacity : 0.8;
 }
 
 #output {
